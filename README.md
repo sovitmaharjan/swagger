@@ -8,7 +8,7 @@
 
 3. Run `make doc` in terminal to generate openApi.
 
-<!-- 4. View Api in : https://niraulabijay.github.io/phase_one_swagger/ -->
+4. View Api in : https://sovitmaharjan.github.io/swagger/
 
 #### Reference `https://joolfe.github.io/postman-to-openapi/`
 # swagger
